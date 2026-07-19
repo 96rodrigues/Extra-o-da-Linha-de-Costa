@@ -25,7 +25,7 @@ Geração de mapas temáticos, permitindo visualizar a evolução temporal da li
 
 A metodologia pode ser aplicada em estudos de Geografia Física, Geomorfologia Costeira, monitoramento de erosão e progradação, análise de dinâmica sedimentar, além de investigações relacionadas às interações entre ondas, ventos e variações da linha de costa.
 
-Bibliotecas utilizadas
+Bibliotecas utilizadas:
 Rasterio – leitura e processamento de imagens raster;
 GeoPandas – manipulação de dados vetoriais;
 Shapely – criação e edição de geometrias;
