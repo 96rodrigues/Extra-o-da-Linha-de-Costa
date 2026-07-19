@@ -1,5 +1,6 @@
 # Extra-o-da-Linha-de-Costa
-Extração da linha de costa apartir de imagens de satélite Sentinel 2
+Extração da linha de costa apartir de imagens de satélite Sentinel 2.
+
 Extração Automática da Linha de Costa com MNDWI
 
 Este script foi desenvolvido em Python, no ambiente Google Colab, para realizar a extração automática de linhas de costa a partir de imagens multiespectrais em formato GeoTIFF. O método utiliza o índice MNDWI (Modified Normalized Difference Water Index), amplamente empregado para a distinção entre superfícies de água e áreas terrestres, permitindo o monitoramento temporal da dinâmica costeira.
